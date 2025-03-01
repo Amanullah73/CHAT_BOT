@@ -1,5 +1,4 @@
-# CHAT_BOT 
-# Chatbot Web Application
+# Chat_bot (Web Application)
 
 A simple AI-powered chatbot web application built using Flask, JavaScript, HTML, and CSS.
 
@@ -23,8 +22,8 @@ A simple AI-powered chatbot web application built using Flask, JavaScript, HTML,
 ### Steps to Run the Project
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/chatbot-app.git
-   cd chatbot-app
+   git clone https://github.com/amanullah/chat_bot.git
+   cd chat_bot
    ```
 2. Install required dependencies:
    ```sh
@@ -57,8 +56,15 @@ chatbot-app/
 Feel free to contribute to this project by improving the chatbot logic, UI, or adding more features! Fork the repo, make your changes, and submit a pull request.
 
 ## License
-This project is open-source and available under the MIT License.
+This project is open-source and available under the **MIT License**.
 
 ---
 **Happy Coding!**
+
+
+
+## Author
+
+[Amanullah](https://github.com/amanullah76)
+
 
