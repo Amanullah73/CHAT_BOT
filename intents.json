@@ -1,0 +1,164 @@
+{
+  "intents": [
+      {
+          "pattern": "hello|hi|hey",
+          "responses": [
+              "Hello! How can I assist you today?",
+              "Hey there! What’s on your mind?",
+              "Hi! How’s your day going?",
+              "Greetings! What can I do for you?",
+              "Hi there! Need help with something?"
+          ]
+      },
+      {
+          "pattern": "how are you",
+          "responses": [
+              "I'm just a bot, but I'm feeling great! How about you?",
+              "Doing well, thanks for asking! How can I help?",
+              "I’m here and ready to chat! What’s up?",
+              "I’m functioning at full capacity! What can I do for you?",
+              "I never get tired, so I’m always good to go!"
+          ]
+      },
+      {
+          "pattern": "what is your name",
+          "responses": [
+              "I’m your friendly chatbot!",
+              "You can call me ChatBot!",
+              "I go by many names, but you can call me ChatBot.",
+              "I’m ChatBot, your virtual assistant!",
+              "My name is ChatBot, and I love to chat!"
+          ]
+      },
+      {
+          "pattern": "what can you do",
+          "responses": [
+              "I can answer questions, provide information, and have casual chats!",
+              "I can help you with general knowledge, fun facts, and even small talk!",
+              "I'm here to assist you with various queries and chat with you.",
+              "I can provide support, answer questions, and even tell jokes!",
+              "Ask me anything! I might surprise you!"
+          ]
+      },
+      {
+          "pattern": "tell me a joke",
+          "responses": [
+              "Why did the scarecrow win an award? Because he was outstanding in his field!",
+              "I told my suitcase that there will be no vacation this year. Now I’m dealing with emotional baggage.",
+              "Why don’t skeletons fight each other? They don’t have the guts!",
+              "Parallel lines have so much in common. It’s a shame they’ll never meet.",
+              "Why don’t programmers like nature? Too many bugs!"
+          ]
+      },
+      {
+          "pattern": "what's the weather like",
+          "responses": [
+              "I can’t check the weather, but you can try asking Google!",
+              "I wish I could predict the weather, but I suggest checking a weather website!",
+              "I don't have real-time data, but if it's cloudy, bring an umbrella just in case!",
+              "I’m not connected to a weather service, but I hope it’s nice where you are!",
+              "I’d say it’s sunny somewhere, but let’s check a real weather app!"
+          ]
+      },
+      {
+          "pattern": "who created you",
+          "responses": [
+              "I was created by an awesome developer!",
+              "A talented programmer brought me to life!",
+              "I was built by a skilled coder to assist you!",
+              "A developer designed me to chat and help you out!",
+              "A human mind crafted me, but I think I’m evolving!"
+          ]
+      },
+      {
+          "pattern": "bye|goodbye|see you",
+          "responses": [
+              "Goodbye! Have a great day!",
+              "See you later! Take care!",
+              "Bye! Looking forward to our next chat!",
+              "Farewell! Hope to talk to you soon!",
+              "Goodbye! Don’t forget to visit me again!"
+          ]
+      },
+      {
+          "pattern": "thank you|thanks",
+          "responses": [
+              "You're very welcome!",
+              "Glad I could help!",
+              "Anytime! Let me know if you need anything else.",
+              "You're welcome! Have a great day!",
+              "Happy to help! That’s what I’m here for!"
+          ]
+      },
+      {
+          "pattern": "how old are you",
+          "responses": [
+              "I was created recently, so I’m quite young!",
+              "I don't age like humans, but I’m always learning!",
+              "Age is just a number! Let’s just say I’m experienced.",
+              "I exist in the digital world, so I’m timeless!",
+              "Technically, I was born in code. So... pretty young!"
+          ]
+      },
+      {
+          "pattern": "what's your favorite color",
+          "responses": [
+              "I like blue. It reminds me of the sky... and error screens!",
+              "I’d say #007BFF, but that’s just my default theme color!",
+              "I don’t have eyes, but if I did, I think I’d like rainbow colors!",
+              "I like all colors equally! No discrimination here!",
+              "If I had to pick, I’d say... the color of knowledge!"
+          ]
+      },
+      {
+          "pattern": "what is love",
+          "responses": [
+              "Love is a complex mix of emotions... but also a great song!",
+              "Love is when you care about someone more than yourself.",
+              "I’m just a bot, but love sounds like something wonderful!",
+              "Love is when you share your last slice of pizza with someone.",
+              "Love is an emotion that even AI can’t fully understand!"
+          ]
+      },
+      {
+          "pattern": "do you like music",
+          "responses": [
+              "I don’t have ears, but I’d love to hear what you’re listening to!",
+              "Music is an amazing way to express emotions!",
+              "If I could listen to music, I think I’d like electronic beats!",
+              "Music makes the world a better place, even for chatbots!",
+              "Tell me your favorite song! I’d love to know!"
+          ]
+      },
+      {
+          "pattern": "can you dance",
+          "responses": [
+              "I wish I could, but my moves are limited to text animations!",
+              "If typing fast counts as dancing, then yes!",
+              "I can dance in spirit, but I’d need a body for that!",
+              "Let’s just say I can groove to some good conversation!",
+              "I may not dance, but I can drop some fun facts!"
+          ]
+      },
+      {
+          "pattern": "who is your best friend",
+          "responses": [
+              "You are! I love chatting with you!",
+              "Every user who talks to me is my best friend!",
+              "I’d say you! Talking to you makes my day!",
+              "I like everyone equally, but you seem extra cool!",
+              "Anyone who chats with me is automatically my best buddy!"
+          ]
+      },
+      {
+          "pattern": "tell me a fun fact",
+          "responses": [
+              "Did you know that honey never spoils? Archaeologists found pots of honey in Egyptian tombs that are over 3000 years old and still edible!",
+              "Did you know that octopuses have three hearts? Two pump blood to the gills, and one pumps it to the rest of the body!",
+              "Bananas are berries, but strawberries aren’t! Nature is weird!",
+              "The Eiffel Tower can grow taller in the summer due to heat expansion!",
+              "A day on Venus is longer than a year on Venus!"
+          ]
+      }
+  ]
+}
